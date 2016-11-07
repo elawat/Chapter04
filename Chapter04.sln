@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch04_ManipulatingText", "Ch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch04_RegularExpressions", "Ch04_RegularExpressions\Ch04_RegularExpressions.csproj", "{463E9D7F-B338-462C-A75E-4EC04ABD73B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch04_Lists", "Ch04_Lists\Ch04_Lists.csproj", "{20DA0329-2D0D-43D0-9BE2-1A2817552E48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{463E9D7F-B338-462C-A75E-4EC04ABD73B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{463E9D7F-B338-462C-A75E-4EC04ABD73B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{463E9D7F-B338-462C-A75E-4EC04ABD73B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DA0329-2D0D-43D0-9BE2-1A2817552E48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DA0329-2D0D-43D0-9BE2-1A2817552E48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DA0329-2D0D-43D0-9BE2-1A2817552E48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DA0329-2D0D-43D0-9BE2-1A2817552E48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
